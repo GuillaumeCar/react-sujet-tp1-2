@@ -1,0 +1,17 @@
+{
+  "name": "reactubeserver",
+  "version": "1.0.0",
+  "description": "api rest pour reactube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Thomas Fritsch <thomas@uidlt.fr> (https://uidlt.fr)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "sqlite3": "^4.2.0"
+  }
+}
