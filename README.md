@@ -14,3 +14,7 @@ Pour plus de clarté, les instructions du TP se trouvent dans des fichiers disti
 4. [D. Compiler avec Babel](./D-babel.md)
 5. [E. Modules](E-modules.md)
 6. [F. Pour aller plus loin : POO avancée](F-poo-avancee.md)
+
+[Correction TP1](https://github.com/GuillaumeCar/react-tp1)
+
+[Correction TP2](https://github.com/GuillaumeCar/react-tp2)
